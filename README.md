@@ -1,4 +1,5 @@
 # LBYARCH_MCO2
+Ronald Dawson R. Catignas and Lorenzo Alfred B. Nery
 
 ## I. Comparative Execution Time and Short Analysis of the Performance of the Kernels
 
