@@ -25,3 +25,5 @@ Data Size: 2^28:
 ![2^28](./28.png)
 
 ## IV. Video
+
+https://drive.google.com/file/d/1O1m0A5C-Y2bsqCNMAh5L5pS0AFvLIBum/view?usp=sharing
